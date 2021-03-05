@@ -12,7 +12,7 @@ Project images:
 
 Homepage: 
 
-https://raw.githubusercontent.com/marioblazevic/carsLivewireApp/master/public/img/car.png
+https://raw.githubusercontent.com/marioblazevic/carsLivewireApp/master/public/img/homepage.png
 
 Chosen car:
 
